@@ -1,3 +1,8 @@
+# Drew Wiegel's first CS193 Lab
+
+- We learn skills essential for industry
+- We're given the tools necessary to succeed in Purdue CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
