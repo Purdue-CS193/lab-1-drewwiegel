@@ -2,6 +2,7 @@
 
 - We learn skills essential for industry
 - We're given the tools necessary to succeed in Purdue CS
+- We learn a lot of info while only meeting once a week
 
 ## Welcome to GitHub Pages
 
